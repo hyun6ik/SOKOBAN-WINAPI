@@ -1,0 +1,2 @@
+C:\API\Ex0915-API-Sokoban\Debug\Ex0915-API-Sokoban.exe
+C:\API\Ex0915-API-Sokoban\Debug\Ex0915-API-Sokoban.pdb
